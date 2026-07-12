@@ -10,7 +10,7 @@
 site_name = "Docs" # CUSTOM: Set the name that appears in the browser tab.
 site_url = "https://crsellinger.github.io/CS44670-Module-2/"
 repo_url = "https://github.com/crsellinger/CS44670-Module-2"
-repo_name = "ml-02-features"
+repo_name = "CS44670-Module-2" # CUSTOM: Set the repository name.
 site_description = "Project Documentation" # CUSTOM: Set the description.
 docs_dir = "docs" # source directory for documentation markdown files
 site_dir = "site" # output directory for generated site (ignored by Git; not in repo)

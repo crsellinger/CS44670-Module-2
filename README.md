@@ -186,9 +186,9 @@ Remove unnecessary instructional comments in your custom files.
 
 Update figures to present interesting results from your custom project:
 
-![Provide a Useful Caption](./docs/images/Figure_1.png)
+![Hours v Scores](./docs/images/Figure_1.png)
 
-![Provide a Useful Caption](./docs/images/Figure_2.png)
+![Model Coeffiecents](./docs/images/Figure_2.png)
 
 ## Project Documentation
 
