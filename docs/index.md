@@ -25,15 +25,19 @@ Describe your small technical modification to the example project.
 
 Include:
 
-- What you changed
-- Why you chose that change
-- How you verified that it worked
-- What result, output, chart, metric, or behavior confirmed the change
+- What you changed: Loaded Seaborn titanic dataset. Changed target to survived. Added column for class_rank to change categorical column for class into numerical. Added column age_group to bin ages into children, young_adults, adults, and seniors. Added numerical rank to classes.
+- Why you chose that change: Started from Lab 2 using titanic and explored from there.
+- How you verified that it worked: Ran notebook, pushed to GitHub, and verified project.log
+- What result, output, chart, metric, or behavior confirmed the change: Chart for categorizing age groups.
 
 Compared with the example project,
 explain what is different and why the change matters.
 
+Added feature that ranks class status. This column is already in dataset (pclass), but I wanted to figure out how to do it myself using pandas.
+
 Was it easy, or surprisingly challenging and why do you think so?
+
+Easy. Used mostly the template code provided and modified it to new dataset. There aren't a lot of numerical features to analyze that would be helpful in determining the survival rate of a specific passenger.
 
 ## Phase 5. Custom Project
 
